@@ -8,6 +8,8 @@ Steps:
 
 1 - Run the MacOs_Install.sh Script
 
+  $ git clone 
+
   $ sudo bash MacOs_Install.sh
 
 2 - Open Tweaks - Appearance:
