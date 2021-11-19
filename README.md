@@ -8,7 +8,7 @@ Steps:
 
 1 - Run the MacOs_Install.sh Script
 
-  $ git clone 
+  $ git clone https://github.com/srvaldomirooliveira/MacOs_Install.git
 
   $ sudo bash MacOs_Install.sh
 
