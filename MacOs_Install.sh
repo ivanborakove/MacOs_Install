@@ -2,7 +2,7 @@
 
 sudo apt update -y && apt upgrade -y
 
-sudo apt install gtk2-engines-murrine gtk2-engines-pixbuf tweak gnome-tweaks -y
+sudo apt install gtk2-engines-murrine gtk2-engines-pixbuf tweak gnome-tweaks plank -y
 
 echo "\n Extract Themes \n"
 
