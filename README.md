@@ -6,12 +6,16 @@
 
 Steps:
 
-1 - Open Tweaks - Appearance:
+1 - Run the MacOs_Install.sh Script
+
+  $ sudo bash MacOs_Install.sh
+
+2 - Open Tweaks - Appearance:
   
   * Once the theme is installed you can apply the theme to your current desktop
   * Change the icons to macOS Mojave theme
   * Apply the macOS cursor set
 
-2 - Remove the default Gnome Dock Panel
+3 - Remove the default Gnome Dock Panel
 
-3 - Configure the Plank application to start after reboot
+4 - Configure the Plank application to start after reboot
