@@ -16,7 +16,7 @@ done
 
 rm *.tar.xz
 
-mv * /usr/share/themes/
+cp -R * /usr/share/themes/
 
 echo "\n Extract Finish \n"
 
@@ -41,6 +41,6 @@ done
 
 rm *.zip
 
-mv * /usr/share/themes/
+cp -R * /usr/share/themes/
 
 echo "\n Extract Finish \n"
