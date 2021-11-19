@@ -2,7 +2,7 @@
 
 # The script in question was developed to automate the configuration of the MacOs Mojave theme on Linux distributions using GNOME.
 
-# As I routinely change operating systems, but I like the MacOs Mojave theme, I decided to create a script in question to make the process easier.
+# As I routinely change operating systems, but I like the MacOs Mojave theme, I decided to create a script to make the process easier.
 
 Steps:
 
