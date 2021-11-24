@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt update -y && apt upgrade -y
+sudo apt update -y && apt upgrade -y && apt dist-upgrade -y
 
 sudo apt install gtk2-engines-murrine gtk2-engines-pixbuf tweak gnome-tweaks plank -y
 
