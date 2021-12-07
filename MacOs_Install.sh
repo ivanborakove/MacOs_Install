@@ -41,6 +41,6 @@ done
 
 rm *.zip
 
-cp -R * /usr/share/themes/
+cp -R * /usr/share/icons/
 
 echo "\n Extract Finish \n"
